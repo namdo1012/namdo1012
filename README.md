@@ -21,3 +21,9 @@ OR
 [_This is a example link_][my github]
 
 [my github]: https://github.com/namdo1012
+
+## **Images**
+
+Show profile by programing code:
+
+![alt text](https://github.com/namdo1012/namdo1012/blob/master/my-profile-img.png "My profile")
