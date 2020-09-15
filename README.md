@@ -18,11 +18,13 @@
 </br>
 </br>
 
-<h1 align="center"> My Profile</h1>
+<h2 align="center"> 😋😋😋 My Profile 😜😜😜</h2>
+</br>
 
-![alt text](https://github.com/namdo1012/namdo1012/blob/master/my-profile-img-x2.png "My profile")
+![alt text](img/my-profile-img-main.png "Logo Title Text 1")
 
-## **About me**
+<h2 align="center"> 😋😋😋 About Me 😜😜😜</h2>
+</br>
 
 This is _italic emphasis_ example
 
@@ -45,7 +47,6 @@ OR
 [my github]: https://github.com/namdo1012
 
 Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## **Import icon**
 
