@@ -16,17 +16,28 @@
 </div>
 
 </br>
-</br>
 
 <h2 align="center"> 😋😋😋 My Profile 😜😜😜</h2>
+<h3 align="center">  I'm the FullStack Developer | Software Engineer </h2>
 </br>
 
-![alt text](img/my-profile-img-main.png "Logo Title Text 1")
+<!-- ![alt text](img/my-profile-img-main.png "Logo Title Text 1") -->
 
-<h2 align="center"> 😋😋😋 About Me 😜😜😜</h2>
-</br>
+<!-- <h2 align="center"> 😋😋😋 About Me 😜😜😜</h2>
+</br> -->
 
-This is _italic emphasis_ example
+### 🚀 About
+
+- 🎓 Majoring in Computer Science (Class of 2020)
+- 👀 I'm currently focusing on **web** and **android development**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
+- 🔭 I'm currently learning **Laravel & VueJS**
+- 💬 Ask me about: everything especially about **tech, movies, series**
+- **I** ❤️ **to think, learn, code, and customize everything**
+- 🔥 On Progress Project: E-learning build with Laravel 7
+
+<img align="right" alt="NamDo's Viblo" src="img/my-profile-img-main.png" style="margin: 0 10px 0 20px"/>
+<!-- This is _italic emphasis_ example
 
 This is **strong emphasis** example
 
@@ -61,9 +72,9 @@ Inline-style:
 </a>
 <a href="https://www.facebook.com/mehdi.mabrouki1">
   <img align="left" alt="Mehdi's Instagram" width="22px" style="padding:5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> -->
 
-</br>
+<!-- </br>
 </br>
 
-## **Blockquote**
+## **Blockquote** -->
