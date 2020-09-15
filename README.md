@@ -21,8 +21,8 @@
 <h3 align="center">  I'm the FullStack Developer | Software Engineer </h3>
 </br>
 
-<img align="right" width="400px" height="200px" alt="NamDo's Viblo" src="img/my-profile-img-main.png"/>
-<!-- <img align="right" alt="NamDo's Viblo" src="https://github.com/namdo1012/namdo1012/blob/master/img/my-profile-img-main.png"/> -->
+<!-- <img align="right" width="400px" height="200px" alt="NamDo's Viblo" src="img/my-profile-img-main.png"/> -->
+<img align="right" alt="NamDo's Viblo" width="400px" height="200px" src="https://github.com/namdo1012/namdo1012/blob/master/img/my-profile-img-main.png"/>
 
 ### 🚀 About
 
