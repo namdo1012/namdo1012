@@ -25,6 +25,7 @@
 
 <!-- <h2 align="center"> 😋😋😋 About Me 😜😜😜</h2>
 </br> -->
+<img align="right" alt="NamDo's Viblo" src="img/my-profile-img-main.png"/>
 
 ### 🚀 About
 
@@ -36,7 +37,6 @@
 - **I** ❤️ **to think, learn, code, and customize everything**
 - 🔥 On Progress Project: E-learning build with Laravel 7
 
-<img align="right" alt="NamDo's Viblo" src="img/my-profile-img-main.png" style="margin: 0 10px 0 20px"/>
 <!-- This is _italic emphasis_ example
 
 This is **strong emphasis** example
