@@ -18,7 +18,7 @@
 </br>
 </br>
 
-## **My profile**
+<h1 align="center"> My Profile</h1>
 
 ![alt text](https://github.com/namdo1012/namdo1012/blob/master/my-profile-img-x2.png "My profile")
 
