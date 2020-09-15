@@ -25,7 +25,7 @@
 
 <!-- <h2 align="center"> 😋😋😋 About Me 😜😜😜</h2>
 </br> -->
-<img align="right" alt="NamDo's Viblo" src="img/my-profile-img-main.png"/>
+<img align="right" alt="NamDo's Viblo" src="https://github.com/namdo1012/namdo1012/blob/master/img/my-profile-img-main.png"/>
 
 ### 🚀 About
 
