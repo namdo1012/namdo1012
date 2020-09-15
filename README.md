@@ -18,14 +18,11 @@
 </br>
 
 <h2 align="center"> 😋😋😋 My Profile 😜😜😜</h2>
-<h3 align="center">  I'm the FullStack Developer | Software Engineer </h2>
+<h3 align="center">  I'm the FullStack Developer | Software Engineer </h3>
 </br>
 
-<!-- ![alt text](img/my-profile-img-main.png "Logo Title Text 1") -->
-
-<!-- <h2 align="center"> 😋😋😋 About Me 😜😜😜</h2>
-</br> -->
-<img align="right" alt="NamDo's Viblo" src="https://github.com/namdo1012/namdo1012/blob/master/img/my-profile-img-main.png"/>
+<img align="right" width="400px" height="200px" alt="NamDo's Viblo" src="img/my-profile-img-main.png"/>
+<!-- <img align="right" alt="NamDo's Viblo" src="https://github.com/namdo1012/namdo1012/blob/master/img/my-profile-img-main.png"/> -->
 
 ### 🚀 About
 
