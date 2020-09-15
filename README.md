@@ -1,6 +1,6 @@
 # Hi, I'm Nam ✌✌✌✌
 
-<div style="text-align:center">
+<div align="center">
 <a href="https://github.com/namdo1012">
   <img alt="NamDo's Linkedin" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/768px-Linkedin_icon.svg.png" style="padding-left: 5px; padding-right: 5px"/>
 </a>
