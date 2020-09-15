@@ -21,18 +21,17 @@
 <h3 align="center">  I'm the FullStack Developer | Software Engineer </h3>
 </br>
 
-<!-- <img align="right" width="400px" height="200px" alt="NamDo's Viblo" src="img/my-profile-img-main.png"/> -->
-<img align="right" alt="NamDo's Viblo" width="400px" height="200px" src="https://github.com/namdo1012/namdo1012/blob/master/img/my-profile-img-main.png"/>
+<img align="right" width="400px" height="200px" alt="NamDo's Viblo" src="img/my-profile-img-main.png"/>
+<!-- <img align="right" alt="NamDo's Viblo" width="400px" height="200px" src="https://github.com/namdo1012/namdo1012/blob/master/img/my-profile-img-main.png"/> -->
 
-### 🚀 About
+### 🚀🚀🚀 About Me
 
-- 🎓 Majoring in Computer Science (Class of 2020)
-- 👀 I'm currently focusing on **web** and **android development**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`.
-- 🔭 I'm currently learning **Laravel & VueJS**
-- 💬 Ask me about: everything especially about **tech, movies, series**
+- 🎓 Majoring in Software Engineering (Class of 2020)
+- 👀 I'm currently focusing on **fullstack web**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.sass`, `.pug`.
+- 🔭 I'm currently learning **ReactJS** and **Express**
+- 💬 Ask me about: everything especially about **tech, movies and guitar**
 - **I** ❤️ **to think, learn, code, and customize everything**
-- 🔥 On Progress Project: E-learning build with Laravel 7
 
 <!-- This is _italic emphasis_ example
 
