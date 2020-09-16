@@ -45,3 +45,12 @@
 <code><img height="40" src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4"></code>
 <code><img height="40" src="https://www.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"></code>
+
+### 👌👌👌 Others
+
+I also have some post about tech and web programing on Viblo. Check my all post here!
+
+- [[Javascript] super() method in javascript](https://viblo.asia/p/tim-hieu-cach-su-dung-super-trong-javascript-qua-vi-du-YWOZrxAr5Q0)
+- [[Javascript] bind(), call(), apply() method in javascript](https://viblo.asia/p/tim-hieu-cach-su-dung-super-trong-javascript-qua-vi-du-YWOZrxAr5Q0)
+- [[Css, Sass] Sass?? How to install and compile Sass?](https://viblo.asia/p/sass-la-gi-cai-dat-va-bien-dich-sass-sang-css-install-and-compile-sass-YWOZrx2E5Q0)
+- [[Css, Sass] Sass Architecture \_ 7-1 Architecture](https://viblo.asia/p/cau-truc-files-trong-cac-du-an-su-dung-sass-voi-7-1-pattern-architecture-aWj53LOQK6m)
