@@ -48,7 +48,7 @@
 
 ### 👌👌👌 Others
 
-I also have some post about tech and web programing on Viblo. Check my all post here!
+I also have some post about tech and web programing on [_Viblo_](https://viblo.asia). Check all my posts [_here_](https://viblo.asia/u/NamDo "See all my posts!") !
 
 - [[Javascript] super() method in javascript](https://viblo.asia/p/tim-hieu-cach-su-dung-super-trong-javascript-qua-vi-du-YWOZrxAr5Q0)
 - [[Javascript] bind(), call(), apply() method in javascript](https://viblo.asia/p/tim-hieu-cach-su-dung-super-trong-javascript-qua-vi-du-YWOZrxAr5Q0)
