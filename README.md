@@ -54,3 +54,5 @@ I also have some post about tech and web programing on [_Viblo_](https://viblo.a
 - [[Javascript] bind(), call(), apply() method in javascript](https://viblo.asia/p/tim-hieu-cach-su-dung-super-trong-javascript-qua-vi-du-YWOZrxAr5Q0)
 - [[Css, Sass] Sass?? How to install and compile Sass?](https://viblo.asia/p/sass-la-gi-cai-dat-va-bien-dich-sass-sang-css-install-and-compile-sass-YWOZrx2E5Q0)
 - [[Css, Sass] Sass Architecture \_ 7-1 Architecture](https://viblo.asia/p/cau-truc-files-trong-cac-du-an-su-dung-sass-voi-7-1-pattern-architecture-aWj53LOQK6m)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
