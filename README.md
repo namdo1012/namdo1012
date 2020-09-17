@@ -10,7 +10,7 @@
 <a href="https://www.facebook.com/namdo1012">
   <img alt="NamDo's Facebook" width="35px" src="https://image.flaticon.com/icons/png/512/124/124010.png" style="padding-left: 10px; padding-right: 10px"/>
 </a>
-<a href="https://medium.com/@ashwanisng">
+<a href="https://viblo.asia/u/NamDo">
   <img alt="NamDo's Viblo" width="35px" src="https://image.winudf.com/v2/image1/Y29tLmZyYW1naWEudmlibG8uYW5kcm9pZC5wcm9kX2ljb25fMTU1NDM1NDAxNF8wMjI/icon.png?w=170&fakeurl=1" style="padding-left: 10px; padding-right: 10px"/>
 </a>
 <a href="https://twitter.com/namdo1012">
